@@ -21,3 +21,7 @@ CREATE TABLE logistics_events (
     event_type TEXT, -- e.g., 'delivered', 'purchased', 'returned', 'washed'
     timestamp TIMESTAMP
 );
+
+SELECT location_id, COUNT(*) 
+FROM logistics_events 
+GROUP BY location_id;
