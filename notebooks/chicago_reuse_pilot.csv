@@ -1,0 +1,51 @@
+store_id,brand,neighborhood,dist_from_hub_mi,weekly_sales,return_rate,units_returned,virgin_plastic_avoided_kg,fossil_fuel_avoided_gal
+STR_001,Trader Joe's,Aurora,9.3,248,0.89,220,26.4,6.6
+STR_002,Mariano's,Lakeview,36.7,222,0.75,166,19.92,4.98
+STR_003,Whole Foods,Naperville,21.4,340,0.75,255,30.6,7.65
+STR_004,Target,Lakeview,36.0,287,0.84,241,28.92,7.23
+STR_005,Mariano's,Wicker Park,41.6,357,0.93,332,39.84,9.96
+STR_006,Trader Joe's,Lakeview,10.6,249,0.95,236,28.32,7.08
+STR_007,Whole Foods,Aurora,5.0,704,0.78,549,65.88,16.47
+STR_008,Mariano's,Naperville,18.1,777,0.74,574,68.88,17.22
+STR_009,Whole Foods,Naperville,34.9,620,0.7,434,52.08,13.02
+STR_010,Target,Lincoln Park,35.3,609,0.71,432,51.84,12.96
+STR_011,Trader Joe's,Oak Park,15.9,497,0.73,362,43.44,10.86
+STR_012,Jewel-Osco,Lincoln Park,35.0,318,0.78,248,29.76,7.44
+STR_013,Jewel-Osco,Oak Park,34.0,717,0.91,652,78.24,19.56
+STR_014,Target,Aurora,21.7,234,0.73,170,20.4,5.1
+STR_015,Trader Joe's,Lakeview,37.1,334,0.77,257,30.84,7.71
+STR_016,Target,Lincoln Park,20.3,664,0.94,624,74.88,18.72
+STR_017,Mariano's,Wicker Park,11.2,583,0.87,507,60.84,15.21
+STR_018,Whole Foods,Naperville,12.7,731,0.9,657,78.84,19.71
+STR_019,Jewel-Osco,Aurora,43.2,368,0.79,290,34.8,8.7
+STR_020,Jewel-Osco,Naperville,31.0,771,0.89,686,82.32,20.58
+STR_021,Trader Joe's,Oak Park,30.8,710,0.88,624,74.88,18.72
+STR_022,Jewel-Osco,Evanston,20.7,608,0.74,449,53.88,13.47
+STR_023,Whole Foods,Lakeview,27.2,744,0.81,602,72.24,18.06
+STR_024,Whole Foods,Naperville,6.1,719,0.91,654,78.48,19.62
+STR_025,Jewel-Osco,Evanston,17.7,573,0.92,527,63.24,15.81
+STR_026,Mariano's,Oak Park,29.5,272,0.81,220,26.4,6.6
+STR_027,Jewel-Osco,Naperville,38.7,213,0.78,166,19.92,4.98
+STR_028,Trader Joe's,Lakeview,38.9,559,0.85,475,57.0,14.25
+STR_029,Trader Joe's,Evanston,3.4,675,0.81,546,65.52,16.38
+STR_030,Whole Foods,Lakeview,35.5,778,0.7,544,65.28,16.32
+STR_031,Target,Oak Park,23.5,479,0.72,344,41.28,10.32
+STR_032,Mariano's,Lakeview,18.2,526,0.82,431,51.72,12.93
+STR_033,Jewel-Osco,Oak Park,41.6,711,0.94,668,80.16,20.04
+STR_034,Whole Foods,Wicker Park,6.4,411,0.83,341,40.92,10.23
+STR_035,Target,Evanston,22.7,416,0.72,299,35.88,8.97
+STR_036,Whole Foods,Naperville,40.7,209,0.92,192,23.04,5.76
+STR_037,Whole Foods,Oak Park,40.8,273,0.71,193,23.16,5.79
+STR_038,Trader Joe's,Wicker Park,5.0,496,0.73,362,43.44,10.86
+STR_039,Jewel-Osco,Evanston,39.5,612,0.77,471,56.52,14.13
+STR_040,Jewel-Osco,Lakeview,9.5,607,0.81,491,58.92,14.73
+STR_041,Trader Joe's,Wicker Park,43.2,343,0.84,288,34.56,8.64
+STR_042,Mariano's,Aurora,27.9,392,0.8,313,37.56,9.39
+STR_043,Trader Joe's,Oak Park,26.5,644,0.87,560,67.2,16.8
+STR_044,Jewel-Osco,Wicker Park,9.8,647,0.9,582,69.84,17.46
+STR_045,Jewel-Osco,Oak Park,15.4,351,0.7,245,29.4,7.35
+STR_046,Trader Joe's,Wicker Park,2.1,686,0.83,569,68.28,17.07
+STR_047,Jewel-Osco,Lakeview,12.7,717,0.82,587,70.44,17.61
+STR_048,Trader Joe's,Aurora,43.4,460,0.78,358,42.96,10.74
+STR_049,Trader Joe's,Aurora,27.7,509,0.76,386,46.32,11.58
+STR_050,Trader Joe's,Oak Park,36.0,656,0.76,498,59.76,14.94
