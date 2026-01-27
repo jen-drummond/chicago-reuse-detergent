@@ -14,7 +14,7 @@ WITH SystemCalculations AS (
         -- CARBON CALCULATION
         -- (0.12kg saved per return) - (Transport Cost) - (Washing Cost)
         (COUNT(CASE WHEN e.event_type = 'returned_to_store' THEN 1 END) * 0.12) - 
-        SUM(CASE WHEN e.event_type = 'returned_to_store' THEN (s.miles_from_hub * 1 * 0.40 * 0.05) + 0.02 ELSE 0 END) as net_carbon,
+        SUM(CASE WHEN e.event_type = 'returned_to_store' THEN (s.miles_from_hub * 1 * 0.40 * 005.) + 0.02 ELSE 0 END) as net_carbon,
 
         -- ECONOMICS
         (COUNT(CASE WHEN e.event_type = 'returned_to_store' THEN 1 END) * (1.50 - 0.20)) as reuse_savings,
