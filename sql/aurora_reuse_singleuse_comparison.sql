@@ -21,8 +21,8 @@ SELECT
     CASE 
         -- Reusable emits 0.30kg MORE than single-use at birth
         WHEN e.event_type = 'manufactured' THEN -0.30 -- Reusable (0.45) - Single (0.15)
-        -- We save the single-use emission (0.15) minus washing (0.03)
-        WHEN e.event_type = 'returned_to_store' THEN 0.12 
+        -- We save the single-use emission (0.15) + Avoided Waste (0.15) minus washing (0.03)
+        WHEN e.event_type = 'returned_to_store' THEN 0.27 
         -- We lose the heavy asset (0.45kg) to a landfill
         WHEN e.event_type = 'lost_to_leakage' THEN -0.30 -- Extra plastic wasted compared to single-use
         ELSE 0 
