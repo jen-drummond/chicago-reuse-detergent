@@ -7,7 +7,7 @@ Website: becomingcircular.com
 ## Overview
 This repository contains a technical simulation and data model for a **closed-loop reusable laundry detergent system** in the Chicagoland area. Leveraging the TerraCycle Aurora Operations Center as a central hub, the project models the logistics, carbon footprint, and economic viability of replacing 1 million single-use HDPE jugs with a durable, circular alternative.
 
-> **[View the Full Presentation & Slide Deck Here](https://becomingcircular.com/chicago-project)**
+> **[View the Full Presentation & Slide Deck Here](https://becomingcircular.com/portfolio)**
 
 ## Key Results (Draft)
 * **Carbon Neutrality:** The reuse loop outperforms single-use packaging after **4.2 rotations**.
