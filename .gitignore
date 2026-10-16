@@ -1,5 +1,7 @@
-data/
-__pycache__/
+data/*
+!data/stores.csv
+!data/routes.csv__pycache__/
 .env 
-
+#Never upload .venv to GitHub. Your code and requirements.txt go to GitHub; the .venv folder stays local on your Mac.
+.venv/
 #ignore the data files, keep the code
